@@ -1,0 +1,5 @@
+n = input()
+m1 = n.replace("a" ,"5")
+m2 = m1.replace("b","a")
+m = m2.replace("5","b")
+print(m)
